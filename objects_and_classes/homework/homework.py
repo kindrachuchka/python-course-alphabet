@@ -53,8 +53,10 @@ class Cesar:
 
 
 class Car:
-    pass
+    def __init__(self, price: float):
+        pass
 
 
 class Garage:
-    pass
+    def __init__(self, ):
+        pass
